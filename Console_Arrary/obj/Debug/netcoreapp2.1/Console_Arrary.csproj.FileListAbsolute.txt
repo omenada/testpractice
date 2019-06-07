@@ -1,0 +1,11 @@
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\bin\Debug\netcoreapp2.1\Console_Arrary.deps.json
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\bin\Debug\netcoreapp2.1\Console_Arrary.runtimeconfig.json
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\bin\Debug\netcoreapp2.1\Console_Arrary.runtimeconfig.dev.json
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\bin\Debug\netcoreapp2.1\Console_Arrary.dll
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\bin\Debug\netcoreapp2.1\Console_Arrary.pdb
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\obj\Debug\netcoreapp2.1\Console_Arrary.csprojAssemblyReference.cache
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\obj\Debug\netcoreapp2.1\Console_Arrary.csproj.CoreCompileInputs.cache
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\obj\Debug\netcoreapp2.1\Console_Arrary.AssemblyInfoInputs.cache
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\obj\Debug\netcoreapp2.1\Console_Arrary.AssemblyInfo.cs
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\obj\Debug\netcoreapp2.1\Console_Arrary.dll
+C:\Projects\arraylist\Console_Arrary\Console_Arrary\obj\Debug\netcoreapp2.1\Console_Arrary.pdb
